@@ -1,5 +1,5 @@
 # 👋🏾 Hey there مرحبا:
-🧑🏾‍💻Frontend-heavy full-stack dev<br> 🤖Working on RAG and Annotation services<br> 🎮Love gaming and looking to collaborate on game dev projects<br> 🧔🏾‍♂️6'1 bearded giant
+🧑🏾‍💻Frontend-heavy full-stack dev<br> 🤖Working on RAG and Annotation services<br> 🎮Love gaming and looking to collaborate on game dev projects<br> 🧔🏾‍♂️6'1 bearded dude
 
 
 ## 🌐 Socials:
