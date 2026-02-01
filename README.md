@@ -2,7 +2,7 @@
   
 # Hey there | مرحبا  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px" />
 🧑🏾‍💻 **full-stack developer**  
-🤖 Currently working on **RAG systems, annotation services, and server-side security**  
+🤖 Currently working on **RAG systems & automation workflows**  
 🎮 Love gaming and open to **collaborating on game dev projects**  
 🧔🏾‍♂️ 6'1 bearded dude  
 
@@ -57,5 +57,6 @@
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Msh-19&theme=codestackr&border_radius=6&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 
+![mohammed's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Msh-19&custom_title=Mohammed's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 ---
 
