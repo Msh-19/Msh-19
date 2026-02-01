@@ -1,8 +1,8 @@
 
   
 # Hey there | مرحبا  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px" />
-🧑🏾‍💻 **Frontend-heavy full-stack developer**  
-🤖 Currently working on **RAG systems & annotation services**  
+🧑🏾‍💻 **full-stack developer**  
+🤖 Currently working on **RAG systems, annotation services, and server-side security**  
 🎮 Love gaming and open to **collaborating on game dev projects**  
 🧔🏾‍♂️ 6'1 bearded dude  
 
